@@ -1,6 +1,6 @@
 """ show_truth_table.py
     Luke Griffith
-    Prints truth tables for input expression.
+    Prints truth tables for input expression via an interactive shell.
 """
 
 import re
