@@ -132,3 +132,5 @@ while True:
                 print()
             except LookupError:
                 print("\n\nInvalid expression.")
+    else:
+        break
