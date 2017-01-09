@@ -1,6 +1,6 @@
 # ShowTruthTable.py 
 
-Python3 progarm I created to help me with logic in my introduction to Maths course. 
+Python3 progarm I created to help me with logic in my introduction to Computer Math course. 
 
     enter python expression or type exit.
             > r and q
