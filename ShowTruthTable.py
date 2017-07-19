@@ -5,7 +5,7 @@
 
 import re
 import string
-
+from operator import xor
 
 def show_truth_table(propositional_algebra, compound_proposition):
     """ 09 October 2016
