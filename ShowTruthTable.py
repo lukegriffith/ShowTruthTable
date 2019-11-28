@@ -98,7 +98,7 @@ def generate_algebra(expression_string):
         returns list of algebra letters from expression.
     """
     alpha = list(string.ascii_lowercase)
-    exp = re.split(r" |\(|\)", expression_string)
+    exp = re.split(r" |\(|\)|,", expression_string)
     algebra_list = list()
 
     for i in range(0, len(alpha)):
